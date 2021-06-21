@@ -1,6 +1,5 @@
-const { getJoiErrorMessages } = require("../helpers");
+const { getJoiErrorMessages, httpStatusCodes } = require("../helpers");
 const APIResponse = require("../helpers/APIResponse");
-const { httpStatusCodes } = require("../utils");
 
 const getDataToValidate = (req) => {
   const method = req.method;
