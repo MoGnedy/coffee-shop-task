@@ -12,6 +12,9 @@
 - `npm run sequelize db:seed:all`
 - `npm start`
 
+
+## To run the test cases
+-  `npm test`
 ## APIs
 
 1- `GET /api/v1/coffee-machines`
