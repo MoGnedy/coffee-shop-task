@@ -1,0 +1,22 @@
+const coffeePodsProductTypes = {
+  COFFEE_POD_LARGE: "COFFEE_POD_LARGE",
+  COFFEE_POD_SMALL: "COFFEE_POD_SMALL",
+  ESPRESSO_POD: "ESPRESSO_POD",
+};
+
+const coffeeFlavors = {
+  COFFEE_FLAVOR_VANILLA: "COFFEE_FLAVOR_VANILLA",
+  COFFEE_FLAVOR_CARAMEL: "COFFEE_FLAVOR_CARAMEL",
+  COFFEE_FLAVOR_PSL: "COFFEE_FLAVOR_PSL",
+  COFFEE_FLAVOR_MOCHA: "COFFEE_FLAVOR_MOCHA",
+  COFFEE_FLAVOR_HAZELNUT: "COFFEE_FLAVOR_HAZELNUT",
+};
+
+const packSizes = {
+  "1_DOZEN": "1_DOZEN",
+  "3_DOZEN": "3_DOZEN",
+  "5_DOZEN": "5_DOZEN",
+  "7_DOZEN": "7_DOZEN",
+};
+
+module.exports = { coffeePodsProductTypes, coffeeFlavors, packSizes };
