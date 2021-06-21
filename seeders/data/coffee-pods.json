@@ -1,0 +1,158 @@
+[
+  {
+    "sku": "CP001",
+    "product_type": "COFFEE_MACHINE_SMALL",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "CP003",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "CP011",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "CP013",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "CP021",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_PSL"
+  },
+  {
+    "sku": "CP023",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_PSL"
+  },
+  {
+    "sku": "CP031",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_MOCHA"
+  },
+  {
+    "sku": "CP033",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_MOCHA"
+  },
+  {
+    "sku": "CP041",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_HAZELNUT"
+  },
+  {
+    "sku": "CP043",
+    "product_type": "COFFEE_POD_SMALL",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_HAZELNUT"
+  },
+  {
+    "sku": "CP101",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "CP103",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "CP111",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "CP113",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "CP121",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_PSL"
+  },
+  {
+    "sku": "CP123",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_PSL"
+  },
+  {
+    "sku": "CP131",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_MOCHA"
+  },
+  {
+    "sku": "CP133",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_MOCHA"
+  },
+  {
+    "sku": "CP141",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "1_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_HAZELNUT"
+  },
+  {
+    "sku": "CP143",
+    "product_type": "COFFEE_POD_LARGE",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_HAZELNUT"
+  },
+  {
+    "sku": "EP003",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "EP007",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "5_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "EP013",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "7_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "EP015",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "3_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  },
+  {
+    "sku": "EP005",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "5_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_VANILLA"
+  },
+  {
+    "sku": "EP017",
+    "product_type": "ESPRESSO_POD",
+    "pack_size": "7_DOZEN",
+    "coffee_flavor": "COFFEE_FLAVOR_CARAMEL"
+  }
+]
