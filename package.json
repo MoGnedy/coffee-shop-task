@@ -1,0 +1,41 @@
+{
+  "name": "coffee-shop",
+  "version": "0.0.1",
+  "description": "coffee-shop task.",
+  "main": "www/bin/index.js",
+  "scripts": {
+    "start": "node -r dotenv/config www/bin/index.js",
+    "dev": "nodemon -r dotenv/config www/bin/index.js",
+    "test": "NODE_ENV='test' jest",
+    "sequelize": "sequelize"
+  },
+  "author": {
+    "name": "Mohamed Gnedy",
+    "email": "mognedy@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7",
+    "sequelize-cli": "^6.2.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "engines": {
+    "node": "14.15.3",
+    "npm": "7.6.2"
+  }
+}
